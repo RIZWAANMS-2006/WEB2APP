@@ -7,10 +7,10 @@
 ## 📸 Preview
 
 ### 📱 Android UI
-<img src="assets/screenshots/web2app_android.jpg" width="300"/>
+![Web2App](https://github.com/user-attachments/assets/47d3bf24-e5d7-4aa6-92c4-855d2613261c)
 
 ### 🖥️ Windows UI
-<img src="assets/screenshots/web2app_windows.png" width="600"/>
+<img width="1920" height="1094" alt="Web2App 7_13_2025 7_57_38 PM" src="https://github.com/user-attachments/assets/4f1ba5e3-0f9c-4ff2-b3f5-676ab11c4a3c" />
 
 ---
 
