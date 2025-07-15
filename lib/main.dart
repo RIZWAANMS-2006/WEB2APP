@@ -63,7 +63,7 @@ class homepage_State extends State<homepage> {
     if (Platform.isWindows) {
       wvcontroller = WinVideoPlayerController.file(
         File(
-          "D:\\Codeing\\dart (Flutter)\\web2app\\assets\\music_control_infiniteloop_wallpaper1.mp4",
+          "D:\\Codeing\\dart (Flutter)\\web2app\\assets\\music_control_infiniteloop_wallpaper1.mp4",   //Make Sure to have this .mp4 video in the location for the video to play in the background
         ),
       );
       wvcontroller!.initialize().then((value) {
