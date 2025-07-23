@@ -4,7 +4,7 @@ import "package:weather_animation/weather_animation.dart";
 import 'package:weatherapi/weatherapi.dart';
 
 WeatherRequest wr = WeatherRequest(
-  '9bf1f9af242648df902121758252006',
+  'ENTER THE API KEY FROM weatherapi.com',
   language: Language.english,
 );
 
