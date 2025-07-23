@@ -235,7 +235,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
                       cloudConfig: CloudConfig(
                         size: 250,
                         color: Color(0x779e9e9e),
-                        icon: IconData(63056, fontFamily: 'MaterialIcons'),
+                        icon: Icons.cloud,
                         widgetCloud: null,
                         x: 20,
                         y: 35,
@@ -261,7 +261,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
                       cloudConfig: CloudConfig(
                         size: 160,
                         color: Color(0x779e9e9e),
-                        icon: IconData(63056, fontFamily: 'MaterialIcons'),
+                        icon: Icons.cloud,
                         widgetCloud: null,
                         x: 140,
                         y: 130,
@@ -315,7 +315,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 250,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 20,
               y: 3,
@@ -332,7 +332,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 160,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 478,
               y: 154,
@@ -349,7 +349,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 160,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 1207,
               y: 174,
@@ -366,7 +366,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 160,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 813,
               y: 99,
@@ -383,7 +383,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 160,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 141,
               y: 97,
@@ -400,7 +400,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 250,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 1052,
               y: 78,
@@ -417,7 +417,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 250,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 345,
               y: 58,
@@ -434,7 +434,7 @@ Stream<Widget?> WeatherBackgroundFunction() async* {
             cloudConfig: CloudConfig(
               size: 250,
               color: Color(0xa8fafafa),
-              icon: IconData(63056, fontFamily: 'MaterialIcons'),
+              icon: Icons.cloud,
               widgetCloud: null,
               x: 672,
               y: 3,
